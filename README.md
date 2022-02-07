@@ -8,11 +8,19 @@
 ![demo](https://cdn.discordapp.com/attachments/939525739995332688/940221312331313182/unknown.png)
 
 ## 🛠 Installation & Set Up
-
+- Clone Repo
+```
+git clone https://github.com/secret-sahil/weather-tracker.git
+```
+- Go to weather-tracker directory
+```
+cd weather-tracker
+```
+- Install Requests Package
 ```
 pip install requests
 ```
-
+- Run weather-tracker.py
 ```
-run weather-tracker.py
+python weather-tracker.py
 ```
